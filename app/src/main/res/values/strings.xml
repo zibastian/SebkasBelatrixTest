@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BelatrixTest</string>
+    <string name="main_welcome_text">Belatrix Test</string>
+    <string name="main_shake_button_text">Shake Action!</string>
+    <string name="main_compass_button_text">Brújula</string>
+    <string name="view_shake_activity_title">SHAKE</string>
+    <string name="view_compass_activity_title">COMPASS</string>
+    <string name="shake_title_text">Detector de Shakes</string>
+    <string name="shake_default_no_shake_text">NO SHAKE</string>
+    <string name="shake_default_shake_text">SHAKE!</string>
+</resources>
